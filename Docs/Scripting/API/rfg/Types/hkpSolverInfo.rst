@@ -1,6 +1,6 @@
 
 .. attention:: This page is incomplete and needs better descriptions and research into the behavior of the variables.
-last updated: 09.08.2019  - added several descriptions for variables.
+
 
 hkpSolverInfo
 ********************************************************
@@ -10,51 +10,40 @@ Variables
 ========================================================
 
 **Tau** (`float`_)
-    Vanilla Value: 0.600
-    Angular Velocity and rotational force (Torque) 
-    (Vanilla is recommended)
+    Unknown value.
 
 **Damping** (`float`_)
-    (Vanilla Value: 1.000 )  (Max recommended Value: 1.520)
-    Damping is based on how bouncy a rigid object will behave when falling onto the ground.
+    Unknown value.
 
 **FrictionTau** (`float`_)
-    (Vanilla Value: 0.300) (Recommended Value: 1.780) -- For a more realistic vision.
-    Friction is a part of collision resolution. Friction always applies a force upon objects. 
-    In RedFactionGuerilla, it will make buildings and objects harder to break, and buildings will fall in bigger pieces.
+    Unknown value.
 
 **DampDivTau** (`float`_)
-    (Vanilla Value: 0.600)
-    Torque and Damp Stress Values - !! - do not touch this. Editing this will not yeld any beneficial results .
+    Unknown value.
 
 **TauDivDamp** (`float`_)
-    (Vanilla Value: 3.333)
-    Effect is Unknown for now. 
+    Unknown value.
 
 **DampDivFrictionTau** (`float`_)
-    (Vanilla Value: 0.300)
-    Friction and Damp Stress Values - !! - do not touch this. Editing this will not yeld any beneficial results .
+    Unknown value.
 
 **FrictionTauDivDamp** (`float`_)
     Unknown value.
-    Friction and Damp Stress Values - !! - do not touch this. Editing this will not yeld any beneficial results .
 
 **ContactRestingVelocity** (`float`_)
-   Friction and Damp Stress Values - !! - do not touch this. Editing this will not yeld any beneficial results 
+    Unknown value.
 
 **DeltaTime** (`float`_)
-    Unknown value. ``ReadOnly``. Set by the game manually each frame/physics update based on the amount of time passed (educated guess).
+    Unknown value. ``readonly``. Set by the game manually each frame/physics update based on the amount of time passed (educated guess).
 
 **InvDeltaTime** (`float`_)
-    Unknown value. ``ReadOnly``. Equals ``1 / DeltaTime``.
+    Unknown value. ``readonly``. Equals ``1 / DeltaTime``.
 
 **NumSteps** (`int`_)
-     "Step" is a process of calculating system's next state. 
-    Timestep is the time interval for which simulation will progress during next "step". 
-    It works simliar to Timestep multiplier.
+    Unknown value.
 
 **NumMicroSteps** (`int`_)
-    Half the Numstep value for better percision when editing values.
+    Unknown value.
 
 **InvNumMicroSteps** (`float`_)
     Unknown value. ``readonly``. Equals ``1 / NumMicroSteps``.
