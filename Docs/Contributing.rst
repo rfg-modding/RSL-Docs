@@ -32,7 +32,7 @@ Finally, you'll want to create a pull request to request that your changes get a
 
 Contributing to the docs
 ========================================================
-This section explains how to edit the docs and contribute changes to them. 
+This section explains how to edit the docs and contribute changes to them. The docs are on a separate repo than the rest of the code, located `here <https://github.com/rsl-dev/RSL-Docs>`_.
 
 Docs requirements
 -------------------------------------------------------
