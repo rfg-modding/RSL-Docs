@@ -5,6 +5,7 @@ Requirements
 --------------------------------------------------------
 
 - The `Visual Studio 2019 x86 Redistributable <https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads/>`_ is required for RSL. You might need to fully restart your PC for the install to properly complete.
+- A copy of Red Faction Guerrilla Re-Mars-tered from steam. Support for the GOG version of re-mars-tered is planned for the future. The RSL **does not** work for any version of RFG other than re-mars-tered.
 
 Steps
 --------------------------------------------------------
