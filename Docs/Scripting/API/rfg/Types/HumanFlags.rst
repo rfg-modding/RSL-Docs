@@ -67,7 +67,7 @@ Variables
     If true, AI will ignore this player. If an AI is already in combat with this human then they'll stay aggressive even after setting this to true.
 
 **CastsShadows** (`bool`_)
-    True if this human casts a shadow. Objects such as weapons and accessories will still cast a shadow if false.
+    If true, human will casts a shadow. Objects such as weapons and accessories will still cast a shadow if false.
 
 **CastsDropShadows** (`bool`_)
     Unknown value.
