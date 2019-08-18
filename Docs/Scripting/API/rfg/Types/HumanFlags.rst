@@ -28,7 +28,7 @@ Variables
     Unknown value.
 
 **NoDamage** (`bool`_)
-    Unknown value.
+    If set to true, currently spawned in human's cannot cause damage.
 
 **ActivityEngage** (`bool`_)
     Unknown value.
