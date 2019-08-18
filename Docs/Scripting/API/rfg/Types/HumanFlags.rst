@@ -311,7 +311,7 @@ Variables
     Unknown value.
 
 **DisallowVehicleDrive** (`bool`_)
-    Unknown value.
+    If true, currently spawned in AI will be unable to drive their vehicles.
 
 **AmbientEDF** (`bool`_)
     Unknown value.
