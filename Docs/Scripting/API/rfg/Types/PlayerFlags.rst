@@ -9,109 +9,109 @@ Flags used to describe `Player`_ state and behavior.
 Variables
 ========================================================
 
-**ActionNodeAnimStarted** (`Bitfield`_)
+**ActionNodeAnimStarted** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CustomMesh** (`Bitfield`_)
+**CustomMesh** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**IsLoaded** (`Bitfield`_)
+**IsLoaded** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**ScriptControlled** (`Bitfield`_)
+**ScriptControlled** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**NeverDie** (`Bitfield`_)
+**NeverDie** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**MissionNeverDie** (`Bitfield`_)
+**MissionNeverDie** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**DoSprint** (`Bitfield`_)
+**DoSprint** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**DisableControls** (`Bitfield`_)
+**DisableControls** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**JetpackStarted** (`Bitfield`_)
+**JetpackStarted** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**JetpackReady** (`Bitfield`_)
+**JetpackReady** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**MovingToAStop** (`Bitfield`_)
+**MovingToAStop** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**QuickTurn** (`Bitfield`_)
+**QuickTurn** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CrouchingState** (`Bitfield`_)
+**CrouchingState** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**WeaponHidden** (`Bitfield`_)
+**WeaponHidden** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**IsStuck** (`Bitfield`_)
+**IsStuck** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CoverFiring** (`Bitfield`_)
+**CoverFiring** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CoverLeanup** (`Bitfield`_)
+**CoverLeanup** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**UseCover** (`Bitfield`_)
+**UseCover** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**NoReticule** (`Bitfield`_)
+**NoReticule** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**NoFineAim** (`Bitfield`_)
+**NoFineAim** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CoverSearchForEdge** (`Bitfield`_)
+**CoverSearchForEdge** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**Coveragainstvehicle** (`Bitfield`_)
+**Coveragainstvehicle** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**InCommTowerRange** (`Bitfield`_)
+**InCommTowerRange** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CommRangeChecked** (`Bitfield`_)
+**CommRangeChecked** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**PassengerBrake** (`Bitfield`_)
+**PassengerBrake** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**LocalPlayerHitSomeoneThisFrame** (`Bitfield`_)
+**LocalPlayerHitSomeoneThisFrame** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**WeaponSwapLock** (`Bitfield`_)
+**WeaponSwapLock** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**UnlimitedAmmo** (`Bitfield`_)
+**UnlimitedAmmo** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**InRadiation** (`Bitfield`_)
+**InRadiation** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**RagdollOnNextExplosion** (`Bitfield`_)
+**RagdollOnNextExplosion** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**LeavingSquadMemberBehind** (`Bitfield`_)
+**LeavingSquadMemberBehind** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**IsWaitingForHostageVehicleExit** (`Bitfield`_)
+**IsWaitingForHostageVehicleExit** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**BackpackFadeOut** (`Bitfield`_)
+**BackpackFadeOut** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**BackpackFadeIn** (`Bitfield`_)
+**BackpackFadeIn** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**WaitingForLockerExit** (`Bitfield`_)
+**WaitingForLockerExit** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
 .. _`Bitfield`: ./PrimitiveTypes.html
