@@ -9,110 +9,110 @@ Flags used to describe `Player`_ state and behavior.
 Variables
 ========================================================
 
-**ActionNodeAnimStarted** (`Bool`_)
+**ActionNodeAnimStarted** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CustomMesh** (`Bool`_)
+**CustomMesh** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**IsLoaded** (`Bool`_)
+**IsLoaded** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**ScriptControlled** (`Bool`_)
+**ScriptControlled** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**NeverDie** (`Bool`_)
+**NeverDie** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**MissionNeverDie** (`Bool`_)
+**MissionNeverDie** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**DoSprint** (`Bool`_)
+**DoSprint** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**DisableControls** (`Bool`_)
+**DisableControls** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**JetpackStarted** (`Bool`_)
+**JetpackStarted** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**JetpackReady** (`Bool`_)
+**JetpackReady** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**MovingToAStop** (`Bool`_)
+**MovingToAStop** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**QuickTurn** (`Bool`_)
+**QuickTurn** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CrouchingState** (`Bool`_)
+**CrouchingState** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**WeaponHidden** (`Bool`_)
+**WeaponHidden** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**IsStuck** (`Bool`_)
+**IsStuck** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CoverFiring** (`Bool`_)
+**CoverFiring** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CoverLeanup** (`Bool`_)
+**CoverLeanup** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**UseCover** (`Bool`_)
+**UseCover** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**NoReticule** (`Bool`_)
+**NoReticule** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**NoFineAim** (`Bool`_)
+**NoFineAim** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CoverSearchForEdge** (`Bool`_)
+**CoverSearchForEdge** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**Coveragainstvehicle** (`Bool`_)
+**Coveragainstvehicle** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**InCommTowerRange** (`Bool`_)
+**InCommTowerRange** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**CommRangeChecked** (`Bool`_)
+**CommRangeChecked** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**PassengerBrake** (`Bool`_)
+**PassengerBrake** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**LocalPlayerHitSomeoneThisFrame** (`Bool`_)
+**LocalPlayerHitSomeoneThisFrame** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**WeaponSwapLock** (`Bool`_)
+**WeaponSwapLock** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**UnlimitedAmmo** (`Bool`_)
+**UnlimitedAmmo** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**InRadiation** (`Bool`_)
+**InRadiation** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**RagdollOnNextExplosion** (`Bool`_)
+**RagdollOnNextExplosion** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**LeavingSquadMemberBehind** (`Bool`_)
+**LeavingSquadMemberBehind** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**IsWaitingForHostageVehicleExit** (`Bool`_)
+**IsWaitingForHostageVehicleExit** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**BackpackFadeOut** (`Bool`_)
+**BackpackFadeOut** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**BackpackFadeIn** (`Bool`_)
+**BackpackFadeIn** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-**WaitingForLockerExit** (`Bool`_)
+**WaitingForLockerExit** (`bool`_)
     Unknown value. ``Range: 0 to 1``
 
-.. _`Bool`: ./PrimitiveTypes.html
+.. _`bool`: ./PrimitiveTypes.html
 .. _`Player`: ./Player.html
