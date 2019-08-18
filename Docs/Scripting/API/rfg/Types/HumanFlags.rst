@@ -304,7 +304,7 @@ Variables
     Unknown value.
 
 **DisallowVehicleExit** (`bool`_)
-    Unknown value.
+    If true, this human will be unable to exit vehicles.
 
 **DisallowVehicleDrive** (`bool`_)
     If true, this human will be unable to drive vehicles.
