@@ -114,5 +114,5 @@ Variables
 **WaitingForLockerExit** (`Bool`_)
     Unknown value. ``Range: 0 to 1``
 
-.. _`Bitfield`: ./PrimitiveTypes.html
+.. _`Bool`: ./PrimitiveTypes.html
 .. _`Player`: ./Player.html
