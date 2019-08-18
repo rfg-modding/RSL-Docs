@@ -80,7 +80,7 @@ Variables
     True if this human is falling.
 
 **DontDeformBones** (`bool`_)
-    Unknown value.
+    Exact purpose is unknown. If true, odd behaviour in ragdolls and characters occur.
 
 **DontLodBones** (`bool`_)
     Unknown value.
