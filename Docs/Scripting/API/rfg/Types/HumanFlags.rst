@@ -203,7 +203,7 @@ Variables
     Unknown value.
 
 **CantHitWithMelee** (`bool`_)
-    Unknown value.
+    If true, human cannot be hit with a melee weapon.
 
 **InvulnerableToDebris** (`bool`_)
     Unknown value.
