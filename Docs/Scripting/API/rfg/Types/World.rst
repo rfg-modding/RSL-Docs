@@ -3,7 +3,7 @@
 
 World
 ********************************************************
-The rfg world structure. Contains the global list of all objects in the game and info about each of the world zones.
+The rfg world structure. Contains the global list of all objects in the game and info about each of the world zones. You can use ``rfg.ActiveWorld`` or ``World`` to access the current world.
 
 Variables
 ========================================================
