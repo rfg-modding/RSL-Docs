@@ -115,10 +115,10 @@ Variables
     Unknown value.
 
 **FadingIn** (`bool`_)
-    Very inconsistent at times. If FadingIn is set to true while FadingOut is also set to true, affected human's will be visible again.
+    Very inconsistent at times. If FadingIn is set to true while FadingOut is also set to true, this human will be visible again.
 
 **FadingOut** (`bool`_)
-    Very inconsistent at times. If set to true, human's will disappear with their weapons and accessories but are still collidable and visible on the minimap.
+    Very inconsistent at times. If set to true, this human will disappear with their weapons and accessories but are still collidable and visible on the minimap.
 
 **FadingOutFromNano** (`bool`_)
     Unknown value.
@@ -202,7 +202,7 @@ Variables
     Unknown value.
 
 **CantHitWithMelee** (`bool`_)
-    If true, human cannot be hit with a melee weapon.
+    If true, this human cannot be hit with a melee weapon.
 
 **InvulnerableToDebris** (`bool`_)
     Unknown value.
@@ -307,7 +307,7 @@ Variables
     Unknown value.
 
 **DisallowVehicleDrive** (`bool`_)
-    If true, currently spawned in AI will be unable to drive their vehicles.
+    If true, this human will be unable to drive vehicles.
 
 **AmbientEDF** (`bool`_)
     Unknown value.
