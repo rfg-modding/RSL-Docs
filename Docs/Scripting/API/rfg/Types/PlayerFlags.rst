@@ -10,109 +10,109 @@ Variables
 ========================================================
 
 **ActionNodeAnimStarted** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **CustomMesh** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **IsLoaded** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **ScriptControlled** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **NeverDie** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.`
 
 **MissionNeverDie** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **DoSprint** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **DisableControls** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **JetpackStarted** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **JetpackReady** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **MovingToAStop** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **QuickTurn** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **CrouchingState** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **WeaponHidden** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **IsStuck** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **CoverFiring** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **CoverLeanup** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **UseCover** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **NoReticule** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **NoFineAim** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **CoverSearchForEdge** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **Coveragainstvehicle** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **InCommTowerRange** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **CommRangeChecked** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **PassengerBrake** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **LocalPlayerHitSomeoneThisFrame** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **WeaponSwapLock** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **UnlimitedAmmo** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **InRadiation** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **RagdollOnNextExplosion** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **LeavingSquadMemberBehind** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **IsWaitingForHostageVehicleExit** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value.
 
 **BackpackFadeOut** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **BackpackFadeIn** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 **WaitingForLockerExit** (`bool`_)
-    Unknown value. ``Range: 0 to 1``
+    Unknown value. 
 
 .. _`bool`: ./PrimitiveTypes.html
 .. _`Player`: ./Player.html
