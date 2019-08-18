@@ -292,9 +292,6 @@ Variables
 **InFetalPosition** (`bool`_)
     Unknown value.
 
-**DisallowVehicleExit** (`bool`_)
-    Unknown value.
-
 **LimitedVehicleExit** (`bool`_)
     Unknown value.
 
