@@ -4,7 +4,7 @@
 
 Player
 ********************************************************
-Holds the variables representing a player. You can use ``rfg.ActivePlayer`` to easily access the current player. This only becomes available after a save is loaded. This type is an `Object`_ since it inherits `Human`_ which inherits `Object`_.
+Holds the variables representing a player. You can use ``rfg.ActivePlayer`` or ``Player`` to easily access the current player. This only becomes available after a save is loaded. This type is an `Object`_ since it inherits `Human`_ which inherits `Object`_.
 
 Inherits `Human`_, which inherits `Object`_
 
@@ -125,7 +125,7 @@ Variables
 **AllowRagdoll** (`bool`_)
     Unknown value.
 
-**PFlags** (`PlayerFlags`_)
+**PlayerFlags** (`PlayerFlags`_)
     Unknown value.
 
 **HoldObjectAvailable** (`bool`_)
