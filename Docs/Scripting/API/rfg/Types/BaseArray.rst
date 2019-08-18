@@ -29,13 +29,16 @@ The most common usage of this type is to iterate through the world object list, 
 Functions
 ========================================================
 
-**Size** (`BaseArray`_)
+**Size** (`BaseArray`_ Self)
     Returns the number of elements in this array as an `int`_.
 
-**Capacity** (`BaseArray`_)
+**Length** (`BaseArray`_ Self)
+    Alternative name for ``Size``.
+
+**Capacity** (`BaseArray`_ Self)
     Returns the maximum number of elements this array can contain as an `int`_.
 
 .. _`int`: ./PrimitiveTypes.html
 .. _`BaseArray`: ./BaseArray.html
-.. _`Object`: ./Object.html
-.. _`Human`: ./Human.html
+.. _`Objects`: ./Object.html
+.. _`Humans`: ./Human.html

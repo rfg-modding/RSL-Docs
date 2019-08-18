@@ -50,7 +50,7 @@ Functions
 **UnitVector** ( )
     Returns the `unit vector`_ of this vector. Which is a vector with the same direction of this vector, but a magnitude of 1.
 
-**GetDataString** (`bool`_ Parentheses = false, `bool`_ Labels = true)
+**GetDataString** (`Vector`_ Self, `bool`_ Parentheses = false, `bool`_ Labels = true)
     Returns a `string`_ with the vector coordinates listed. If no arguments are provided it has false, then true as it's default args. Example usage:
 
     .. code-block:: lua

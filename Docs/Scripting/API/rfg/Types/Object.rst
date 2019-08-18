@@ -98,13 +98,13 @@ Functions
 
 .. warning:: Be sure to check an objects type before casting it to avoid having  garbage values or unintentionally changing adjacent memory. For example, if you are casting an object to `Human`_, double check that ``Self.Type == rfg.ObjectTypes.Human`` is true before casting it.
 
-**CastToHuman** (`Object`_)
+**CastToHuman** (`Object`_ Self)
     Returns this object as a `Human`_. 
 
-**CastToPlayer** (`Object`_)
+**CastToPlayer** (`Object`_ Self)
     Returns this object as a `Player`_. 
 
-**CastToZone** (`Object`_)
+**CastToZone** (`Object`_ Self)
     Returns this object as a `WorldZone`_. 
 
 .. _`Object`: ./Object.html

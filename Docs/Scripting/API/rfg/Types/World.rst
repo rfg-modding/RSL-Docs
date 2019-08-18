@@ -26,6 +26,9 @@ Variables
 **AllObjects** (`BaseArray<Object*>`_)
     An array containing all of the objects in the game world. You can iterate through this and filter objects by type to interact with the game world. When iterating through the list be sure to check if each object is ``nil`` before accessing it to avoid errors.
 
+**Objects** (`BaseArray<Object*>`_)
+    An alternative name for ``AllObjects``. Shorter and more convenient.
+
 **TechLevel** (`float`_)
     The current tech level, used to determine the weapons used by NPCs.
 
