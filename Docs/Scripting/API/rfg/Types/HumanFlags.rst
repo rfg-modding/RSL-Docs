@@ -116,10 +116,10 @@ Variables
     Unknown value.
 
 **FadingIn** (`bool`_)
-    Unknown value.
+    Very inconsistent at times. If FadingIn is set to true while FadingOut is also set to true, affected human's will be visible again.
 
 **FadingOut** (`bool`_)
-    Unknown value.
+    Very inconsistent at times. If set to true, human's will disappear with their weapons and accessories but are still collidable and visible on the minimap.
 
 **FadingOutFromNano** (`bool`_)
     Unknown value.
