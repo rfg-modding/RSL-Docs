@@ -11,8 +11,7 @@ Variables
     Unknown value.
 
 **Hidden** (`bool`_)
-    Unknown value.
-
+    Exact purpose is unknown. If true, odd behaviour in characters occur such as being frozen in their current state, certain parts of their model being removed, and being hidden on the minimap.
 **CapSpeed** (`bool`_)
     True if the came should limit the movement speed of this human.
 
