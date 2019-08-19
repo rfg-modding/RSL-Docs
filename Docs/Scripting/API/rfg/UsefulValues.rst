@@ -3,9 +3,9 @@ Useful values
 ************************
 These are useful variables that the RSL finds at runtime and provides for use in scripts.
 
-`Player`_ ``rfg.ActivePlayer``: This is the player type instance. Allows you to easily access the player without needing to iterate the world object list and look for them.
+`Player`_ ``rfg.ActivePlayer`` or ``Player``: This is the player type instance. Allows you to easily access the player without needing to iterate the world object list and look for them.
 
-`World`_ ``rfg.ActiveWorld``: The rfg world instance. Holds the global/world object list which you can loop through to manipulate and collect data on all the objects in the game world.
+`World`_ ``rfg.ActiveWorld`` or ``World``: The rfg world instance. Holds the global/world object list which you can loop through to manipulate and collect data on all the objects in the game world.
 
 .. Document rfg.ActivePhysicsWorld here once it's bound. For now only the solver is bound since it has real uses.
 
