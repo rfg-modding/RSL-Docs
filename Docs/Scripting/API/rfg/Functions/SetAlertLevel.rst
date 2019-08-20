@@ -5,7 +5,8 @@ Sets the current alert level (green, yellow, orange, red).
 
 **Arguments:**
 
-- `AlertLevel`_ **Level**: The new alert level.
+**Level** (`AlertLevel`_)
+    The new alert level.
 
 **Returns:**
 

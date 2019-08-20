@@ -5,15 +5,19 @@ Set's the current gravity acceleration vector. Each component is in m/s^2.
 
 **Arguments:**
 
-- `Vector`_ **Gravity**: The new gravity acceleration vector.
+**Gravity** (`Vector`_)
+    The new gravity acceleration vector.
 
-Alternative:
+**Alternative:**
 
-- `float`_ **x**: The x component of the new gravity acceleration vector.
+**x** (`float`_)
+    The x component of the new gravity acceleration vector.
 
-- `float`_ **y**: The y component of the new gravity acceleration vector.
+**y** (`float`_)
+    The y component of the new gravity acceleration vector.
 
-- `float`_ **z**: The z component of the new gravity acceleration vector.
+**z** (`float`_)
+    The z component of the new gravity acceleration vector.
 
 **Returns:**
 

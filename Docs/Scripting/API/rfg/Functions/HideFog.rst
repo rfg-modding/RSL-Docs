@@ -5,7 +5,8 @@ Sets the visibility state of fog.
 
 **Arguments:**
 
-- `bool`_ **Hide**: If true fog will be hidden. If false fog will be made visible.
+**Hide** (`bool`_)
+    If true fog will be hidden. If false fog will be made visible.
 
 **Returns:**
 

@@ -9,6 +9,7 @@ Gets the far clip distance for the camera.
 
 **Returns:**
 
-- `float`_ **Distance**: The current far clip distance of the camera.
+**Distance** (`float`_)
+    The current far clip distance of the camera.
 
 .. _`float`: ../Types/PrimitiveTypes.html

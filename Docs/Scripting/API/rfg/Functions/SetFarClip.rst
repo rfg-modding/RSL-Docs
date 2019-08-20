@@ -5,7 +5,8 @@ Sets the far clip distance for the camera. Anything further than this distance i
 
 **Arguments:**
 
-- `float`_ **Distance**: The new far clip distance.
+**Distance** (`float`_)
+    The new far clip distance.
 
 **Returns:**
 

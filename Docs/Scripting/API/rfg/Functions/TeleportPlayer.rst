@@ -5,9 +5,11 @@ Teleports the player to the specified position. If you want to teleport other hu
 
 **Arguments:**
 
-- `Vector`_ **Position**: The position to teleport the player to.
+**Position** (`Vector`_)
+    The position to teleport the player to.
 
-- `Matrix`_ **Orientation**: ``optional`` The orientation (direction they're facing) of the player that should be set after they're teleported.
+**Orientation** (`Matrix`_) ``optional`` 
+    The orientation (direction they're facing) of the player that should be set after they're teleported.
 
 **Returns:**
 
