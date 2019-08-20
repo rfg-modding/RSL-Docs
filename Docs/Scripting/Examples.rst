@@ -1,7 +1,7 @@
 
 Examples
 ********************************************************
-Description goes here...
+Lua scripting examples.
 
 
 .. toctree::
