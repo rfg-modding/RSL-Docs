@@ -5,7 +5,7 @@ Sets the position of objects.
 
 **Arguments:**
 
-- HavokBodySetPos(`unsigned int` Handle, `Vector` Position)
+- HavokBodySetPos(`unsigned int`_ Handle, `Vector`_ Position)
 
 **Returns:**
 
