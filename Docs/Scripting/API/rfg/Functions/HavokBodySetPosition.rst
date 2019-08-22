@@ -5,11 +5,9 @@ Sets the position of objects.
 
 **Arguments:**
 
-- None
+- HavokBodySetPos(`unsigned int` Handle, `Vector` Position)
 
 **Returns:**
 
-**Gravity** (`Vector`_)
-    The current gravity acceleration vector.
-
 .. _`Vector`: ../Types/Vector.html
+.. _`unsigned int`: ../Types/PrimitiveTypes.html
