@@ -110,6 +110,9 @@ Functions
 **CastToVehicle** (`Object`_ Self)
     Returns this object as a `Vehicle`_. 
 
+**CastToFlyer** (`Object`_ Self)
+    Returns this object as a `Flyer`_. 
+
 .. _`Object`: ./Object.html
 .. _`Vector`: ./Vector.html
 .. _`Matrix`: ./Matrix.html
@@ -128,3 +131,4 @@ Functions
 .. _`rfg.ObjectTypes`: ./ObjectTypes.html
 .. _`rfg.ObjectSubTypes`: ./ObjectSubTypes.html
 .. _`Vehicle`: ./Vehicle.html
+.. _`Flyer`: ./Flyer.html
