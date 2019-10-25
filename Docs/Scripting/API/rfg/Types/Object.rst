@@ -107,6 +107,9 @@ Functions
 **CastToZone** (`Object`_ Self)
     Returns this object as a `WorldZone`_. 
 
+**CastToVehicle** (`Object`_ Self)
+    Returns this object as a `Vehicle`_. 
+
 .. _`Object`: ./Object.html
 .. _`Vector`: ./Vector.html
 .. _`Matrix`: ./Matrix.html
@@ -124,3 +127,4 @@ Functions
 .. _`char`: ./PrimitiveTypes.html
 .. _`rfg.ObjectTypes`: ./ObjectTypes.html
 .. _`rfg.ObjectSubTypes`: ./ObjectSubTypes.html
+.. _`Vehicle`: ./Vehicle.html
