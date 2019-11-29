@@ -12,7 +12,7 @@ Steps
 
 .. note:: If you have a version of RSL prior to 0.5.0 installed, you should delete it before installing this version to minimize the chance of issues.
 
-- Download the latest release from the `releases page <https://ci.appveyor.com/project/Moneyl/rsl/history>`_. Just select the latest release, click the artifacts tab, and download the zip file listed there.
+- Download the latest release from the `releases page <https://github.com/rsl-dev/RSL/releases>`_. Just select the latest release, click the artifacts tab, and download the zip file listed there.
 - Unzip the release and copy the folder it contains into your Red Faction Guerrilla Re-mars-tered folder. In steam you can find that by right clicking the game in your library and then clicking ``Properties > Local files > Browse local files``. Don't worry about overwriting files, the RSL **does not** modify any files included with the game. After copying the files your RFGR folder should look something like this: 
 
 .. figure:: Images/RFGR_Folder_Cropped.png
