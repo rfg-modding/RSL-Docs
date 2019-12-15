@@ -23,11 +23,18 @@ Steps
 .. important:: Note that RSL.dll and the Scripts and Fonts folders are not in the same folder as rfg.exe. If they are, you've made a mistake.
 
 - Run re-mars-tered through steam as normal, you should see the RSL launcher pop up, here you can pick whether or not to play with the RSL. Choose to play with the RSL enabled.
-- Wait until you hear 3 beeps. This means that the RSL has succesfully activated. It might take 5-10 seconds before occuring, and you'll likely need to load a save first before it's fully active.
+- Wait until you hear 3 beeps. This means that the RSL has succesfully activated. It might take 5-10 seconds before occuring, and you'll need to load a save first before it's fully active.
 - The RSL is now ready for use. You can use F1 to toggle the overlay where you'll see a welcome menu with more shortcuts. You should read the usage guide and scripting guides for more info.
 
-Troubleshooting
+Known issues
 ----------------------------------------------------------
+Problem: "The game freezes at startup, or doesn't show the launcher"
+********
+Solution:
+********
+The launcher sometimes causes the game to lockup when it starts. This isn't easily reproducible and has no fix yet. Instead there are ways to bypass the launcher. Find your RFGR game folder, it contains ``rfg.exe``. To bypass the launcher and play the game with the RSL loaded, create an empty text file in that folder called ``RSL_No_Launcher.txt``. To bypass the launcher and play the game with the RSL disabled (lets you use MP features), create a text file called ``Vanilla_No_Launcher.txt``.
 
+General Troubleshooting:
+-----------------------------------------------------------
 - Make sure to restart your computer if you haven't already after installing the Visual Studio 2019 x86 Redistributable. There have been a few instances where the installation wasn't properly completed until the user fully restarted. For best results you should fully power down and start your PC again after several seconds.
 - If that doesn't solve your issue, please `create a new github issue <https://github.com/rsl-dev/RSL/issues/new>`_ or contact us on the `Official Red Faction Discord Server <https://discord.gg/wYT7pj5>`_ in the mod_makers_talk channel. When you report a bug, please include a zipped copy of your RSL logs folder ``/RSL/Logs``, the version you are using (available in the RSL about menu, or just as the name of the zip file you downloaded), and if possible, steps for reproducing your problem and a description of what is happening.
