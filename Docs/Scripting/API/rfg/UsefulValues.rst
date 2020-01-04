@@ -34,4 +34,6 @@ These are useful variables that the RSL finds at runtime and provides for use in
 .. _`ExplosionInfo`: ./Types/ExplosionInfo.html
 .. _`explosion examples`: ../../Examples/Explosions.html
 .. _`float`: ./PrimitiveTypes.html
+.. _`int`: ./PrimitiveTypes.html
 .. _`uint`: ./PrimitiveTypes.html
+.. _`bool`: ./PrimitiveTypes.html
