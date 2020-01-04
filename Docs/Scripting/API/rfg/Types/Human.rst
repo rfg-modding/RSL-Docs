@@ -7,6 +7,11 @@ Has all the data representing a human such as health, jump height, move speed, a
 
 Inherits `Object`_
 
+- :ref:`Human-variables`
+- :ref:`Human-functions`
+
+.. _Human-variables:
+
 Variables
 ========================================================
 
@@ -534,6 +539,25 @@ Variables
 
 **Lifetime** (`Timestamp`_)
     The time the human has been in existance.
+
+**Invincible** (`bool`_)
+    If true the human won't take any damage. Shortcut for ``someHuman.Flags.Invulnerable``
+
+**AiIgnore** (`bool`_)
+    If true, the human will be ignored by other AI. Useful for when you want the player to be ignored when walking around EDF bases. Shortcut for ``someHuman.Flags.AiIgnore``
+
+**AllowRagdoll** (`bool`_)
+    If false, the human won't ragdoll. Shortcut for ``someHuman.Flags.DisallowFlinchesAndRagdolls``
+
+
+.. _Human-functions:
+
+Functions
+========================================================
+
+**Heal** (`Human`_ Self)
+    Fully heals the human. Since the first argument is self, you call it with a colon instead of a period. So ``someHuman:ResetMoveSpeed()``
+
 
 .. _`Object`: ./Object.html
 .. _`Vector`: ./Vector.html

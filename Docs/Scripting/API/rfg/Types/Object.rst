@@ -98,6 +98,12 @@ Functions
 
 .. warning:: Be sure to check an objects type before casting it to avoid having  garbage values or unintentionally changing adjacent memory. For example, if you are casting an object to `Human`_, double check that ``Self.Type == rfg.ObjectTypes.Human`` is true before casting it.
 
+**GetName** (`Object`_ Self)
+    Returns the objects name if it has one. Objects almost never have a name.
+
+**IsPlayer** (`Object`_ Self)
+    Returns a `bool`_ (true or false) for if this object is the player.
+
 **CastToHuman** (`Object`_ Self)
     Returns this object as a `Human`_. 
 

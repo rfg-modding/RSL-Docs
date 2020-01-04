@@ -8,6 +8,11 @@ Holds the variables representing a player. You can use ``rfg.ActivePlayer`` or `
 
 Inherits `Human`_, which inherits `Object`_
 
+- :ref:`Player-variables`
+- :ref:`Player-functions`
+
+.. _Player-variables:
+
 Variables
 ========================================================
 
@@ -316,6 +321,17 @@ Variables
 
 **TrackingPeriod** (`Timestamp`_)
     Unknown value.
+
+**Salvage** (`int`_)
+    The players salvage count. Shortcut for ``Player.Metadata.Salvage``.
+
+.. _Player-functions:
+
+Functions
+========================================================
+
+**ResetMoveSpeed** (`Player`_ Self)
+    Resets the players move speed if it was overriden. Since the first argument is self, you call it with a colon instead of a period. So ``Player:ResetMoveSpeed()``
 
 .. _`float`: ./PrimitiveTypes.html
 .. _`UseableObject`: ./UseableObject.html
