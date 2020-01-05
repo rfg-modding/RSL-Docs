@@ -25,7 +25,7 @@ Variables
     Needs description. Default value: ``-0.5``
 
 **ShadowMapMaxDist** (`float`_)
-    Needs description. Default value: ``100.0``
+    Unknown purpose. Name is contradictory since increasing this value makes closeby shadows look worse. Default value: ``100.0``
 
 **ShadowMapFadePercent** (`float`_)
     Needs description. Default value: ``0.8``
