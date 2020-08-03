@@ -1,6 +1,8 @@
 Re-mars-tered Script Loader
 ===============================
 
+.. important:: Development for RSL1 has ended. A rewrite has started development: `RSL2 <https://github.com/rsl-dev/RSL2>`_.
+
 The Re-mars-tered Script Loader (RSL) adds a lua scripting API to Red Faction Guerrilla Re-mars-tered Edition (RFGR). The goal of this is to allow for more creative and dynamic mods through scripting, but also to bypass many of the current limitations of modding the game. You should start with the `introduction`_ page.
 
 Special thanks is given to `MWSE v2 <https://github.com/MWSE/MWSE>`_ and it's developers. It's been used as a design template/example and source of ideas for RSL. You may also notice many structural similarities with these docs and theirs.
